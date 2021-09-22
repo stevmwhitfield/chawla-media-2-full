@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend/
+	url = https://github.com/stevmwhitfield/chawla-media-2.git
 [submodule "backend"]
 	path = backend
-	url = ./backend/
+	url = https://github.com/stevmwhitfield/chawla-media-2-cms.git
